@@ -50,3 +50,4 @@ Destino: La IP Destino (10.25.1.5) es una IP Privada;IP Destino = 169.254.169.25
 169.254.169.254
 Destino: La IP Destino (10.234.250.120) es una IP Privada
 Destino: La IP Destino (10.234.30.68) es una IP Privada
+Destino: La IP Destino (10.234.30.74) es una IP Privada
