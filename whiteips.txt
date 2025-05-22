@@ -38,3 +38,4 @@ Destino: IP Destino = 169.254.132.141, malicioso = 0, sospechoso = 0
 169.254.132.141
 Destino: IP Destino = 1331814
 WEXLER Ataque DoS Web desde IP origen 50.192.162.68 hacia IP destino 185.211.7.241
+HIGH
