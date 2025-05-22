@@ -26,3 +26,4 @@ Destino: IP Destino = 107.22.247.231) es una IP Privada, malicioso = 0, sospecho
 107.22.247.231
 Destino: La IP Destino (10.19.12.44
 107.22.247.231) es una IP Privada
+IP Destino = 54.227.187.23, malicioso = 0, sospechoso = 0
