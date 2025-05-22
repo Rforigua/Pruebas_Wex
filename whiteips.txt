@@ -46,3 +46,4 @@ Destino: La IP Destino (10.10.14.31
 Destino: IP Destino = 8.8.4.4) es una IP Privada, malicioso = 0, sospechoso = 0;La IP Destino (10.10.19.30) es una IP Privada;IP Destino = 8.8.4.4, malicioso = 0, sospechoso = 0
 Destino: La IP Destino está vacía
 169.254.132.141
+Destino: La IP Destino (10.25.1.5) es una IP Privada;IP Destino = 169.254.169.254, malicioso = 0, sospechoso = 0
