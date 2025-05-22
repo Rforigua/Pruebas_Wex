@@ -24,3 +24,4 @@ fe80::9c9b:3dd5:c3cf:d3
 Destino: IP Destino = 172.104.131.24, malicioso = 0, sospechoso = 0 IP Destino = 168.228.127.115, malicioso = 0, sospechoso = 0
 172.104.131.24
 168.228.127.115
+Destino: IP Destino = 18.207.85.246) es una IP Privada, malicioso = 0, sospechoso = 0 La IP Destino (10.19.12.44) es una IP Privada IP Destino = 18.207.85.246, malicioso = 0, sospechoso = 0
