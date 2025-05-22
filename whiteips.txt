@@ -41,3 +41,4 @@ IP Destino = 168.228.127.113, malicioso = 0, sospechoso = 0
 IP Destino = 168.228.126.180, malicioso = 0, sospechoso = 0
 168.228.126.180
 Destino: La IP Destino (10.10.14.31
+8.8.4.4) es una IP Privada
