@@ -32,3 +32,4 @@ Destino: La IP Destino (10.10.19.30
 Destino: La IP Destino está vacía
 Destino: IP Destino = 169.254.169.254, malicioso = 1, sospechoso = 0
 169.254.169.254
+Destino: La IP Destino (10.234.234.110) es una IP Privada
