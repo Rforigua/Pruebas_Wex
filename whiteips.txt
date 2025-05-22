@@ -6,5 +6,6 @@ $!b;d
 54.144.73.197
 54.227.187.23
 Destino:
+Destino: IP Destino = WEXLER Ataque DoS Web desde IP origen 50.192.162.68 hacia IP destino 185.211.7.241, malicioso = 0, sospechoso = 0;IP Destino = HIGH, malicioso = 0, sospechoso = 0;IP Destino = 0, malicioso = 0, sospechoso = 0;La IP Destino está vacía;La IP Destino está vacía;IP Destino = 50.192.162.68, malicioso = 0, sospechoso = 0;IP Destino = 185.211.7.241, malicioso = , sospechoso =, malicioso = 0, sospechoso = 0;La IP Destino está vacía
 Destino: La IP Destino (10.19.12.44) es una IP Privada;IP Destino = 18.207.85.246, malicioso = 0, sospechoso = 0
 IP Destino = 54.144.73.197, malicioso = 0, sospechoso = 0
