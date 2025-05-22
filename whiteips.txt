@@ -8,3 +8,4 @@ Destino: IP Destino = 185.211.7.241, malicioso = 0, sospechoso = 0
 185.211.7.241
 Destino: IP Destino = 50.192.162.68, malicioso = 0, sospechoso = 0;La IP Destino (10.234.250.69) es una IP Privada
 50.192.162.68
+Destino: IP Destino = 50.192.162.68, malicioso = 0 0, sospechoso = ;IP Destino = 185.211.7.241, malicioso = 0 0, sospechoso =
