@@ -12,3 +12,4 @@ IP Destino = 168.228.126.176, malicioso = 0, sospechoso = 0
 Destino:
 IP Destino = 18.207.85.246, malicioso = 0, sospechoso = 0
 18.207.85.246
+La IP Destino está vacía
