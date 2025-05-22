@@ -1,12 +1,1 @@
 
-54.144.73.197
-198.235.24.104
-168.228.127.113
-147.185.133.121
-186.155.253.53
-89.248.165.108
-Destino: La IP Destino (10.10.19.31) es una IP Privada;IP Destino = 8.8.4.4, malicioso = 0, sospechoso = 0
-8.8.4.4
-IP Destino = 52.5.13.197, malicioso = 0, sospechoso = 0
-52.5.13.197
-Destino: La IP Destino (10.234.30.75) es una IP Privada
