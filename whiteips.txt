@@ -38,3 +38,4 @@ IP Destino = 168.228.127.115, malicioso = 0, sospechoso = 0
 168.228.127.115
 IP Destino = 168.228.127.113, malicioso = 0, sospechoso = 0
 168.228.127.113
+IP Destino = 168.228.126.180, malicioso = 0, sospechoso = 0
