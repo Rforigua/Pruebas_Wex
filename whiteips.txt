@@ -28,3 +28,4 @@ Destino: IP Destino = 18.207.85.246) es una IP Privada, malicioso = 0, sospechos
 18.207.85.246
 La IP Destino está vacía
 Destino: La IP Destino (10.10.19.30
+8.8.4.4) es una IP Privada
