@@ -17,3 +17,4 @@ Destino: IP Destino = 10.10.14.31) es una IP Privada, malicioso = 0, sospechoso 
 Destino: IP Destino = 10.10.19.31) es una IP Privada, malicioso = 0, sospechoso = 0 La IP Destino (10.25.1.5) es una IP Privada La IP Destino (10.10.19.31) es una IP Privada
 Destino: IP Destino = 10.10.19.31) es una IP Privada, malicioso = 0, sospechoso = 0 La IP Destino (10.10.20.121) es una IP Privada La IP Destino (10.10.19.31) es una IP Privada
 Destino: IP Destino = 10.10.19.30) es una IP Privada, malicioso = 0, sospechoso = 0 La IP Destino (10.10.20.121) es una IP Privada La IP Destino (10.10.19.30) es una IP Privada
+Destino: La IP Destino (10.10.19.30) es una IP Privada
