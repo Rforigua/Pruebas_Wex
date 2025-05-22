@@ -4,4 +4,5 @@ $!b;d
 198.235.24.60
 54.144.73.197
 54.227.187.23
+Destino: La IP Destino (10.19.12.44) es una IP Privada;IP Destino = 18.207.85.246, malicioso = 0, sospechoso = 0
 IP Destino = 54.144.73.197, malicioso = 0, sospechoso = 0
