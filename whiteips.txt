@@ -56,3 +56,4 @@ Destino: La IP Destino está vacía;IP Destino = 169.254.169.254, malicioso = 0,
 Destino: La IP Destino (10.25.1.5) es una IP Privada;La IP Destino (10.10.19.30) es una IP Privada
 Destino: La IP Destino (10.25.1.5) es una IP Privada;La IP Destino (10.10.14.31) es una IP Privada
 Destino: La IP Destino (10.25.1.5) es una IP Privada;La IP Destino (10.10.19.31) es una IP Privada
+Destino: IP Destino = 12.0.1.15, malicioso = 0, sospechoso = 0;La IP Destino (10.234.234.110) es una IP Privada
