@@ -16,3 +16,4 @@ La IP Destino está vacía
 154.212.141.198
 Destino: La IP Destino (10.10.20.121) es una IP Privada;La IP Destino (10.10.19.30) es una IP Privada
 Destino: La IP Destino (10.10.20.121) es una IP Privada;La IP Destino (10.10.19.31) es una IP Privada
+Destino: La IP Destino (10.10.19.30) es una IP Privada
